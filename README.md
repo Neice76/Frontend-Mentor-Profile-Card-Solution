@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor-advice-generator-app-solution-3XeMKnCrym). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-iHHHpB1gcG). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -34,3 +34,7 @@ Users should be able to:
 - HTML
 - CSS FLEXBOX/GRID
 - JAVASCRIPT
+
+## Author
+- Github - [Trenyce Price - Neice76](https://github.com/Neice76)
+- Frontend Mentor - [@Neice76](https://www.frontendmentor.io/profile/Neice76)
