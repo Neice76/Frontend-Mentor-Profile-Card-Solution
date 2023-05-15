@@ -34,12 +34,11 @@ body {
 }
 
 .profileCard #profileCardInfo #userPicture {
-    width: 150px;
-    height: 150px;
+    width: 140px;
+    height: 140px;
     border-radius: 50%;
-    transform: translateY(-50px);
+    margin: -50px 0px 0px 120px;
     border: 10px solid var(--white-color);
-    margin-left: 30%;
 }
 
 .profileCard #profileCardInfo #userInfo {
@@ -66,6 +65,11 @@ body {
     align-items: center;
     margin-left: 35px;
     gap: 20%;
+}
+
+.attribution {
+    position: fixed;
+    bottom: 1em;
 }
 
 .attribution a { 
